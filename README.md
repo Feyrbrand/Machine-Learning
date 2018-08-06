@@ -1,5 +1,5 @@
-# Machine-Learning
-simple machine learning algorithms in Python
+# The Game of PONG
+simple machine learning algorithm in Python
 
 using the ``pygame`` library for screenplay and the ``tensorflow`` library for calculation
 
