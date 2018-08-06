@@ -13,3 +13,11 @@ prequisite:
 - understanding of neural-network-layer
 - how to play pong
                   
+start:
+
+- the machine learning algorithm starts with the ``deep_q_algo.py`` 
+- in ``deep_q_algo.py`` the ``OBSERVE`` variable, determines the visible runtime of the algo
+
+Note:
+
+- the application is RAM heavy, cause of each frame has to be cached for learning
