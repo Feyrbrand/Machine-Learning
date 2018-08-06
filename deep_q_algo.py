@@ -23,6 +23,7 @@ INITIAL_EPSILON = 1.0
 FINAL_EPSILON = 0.05
 
 # how many frames to near epsilon
+# determines the runtime of the algo
 EXPLORE = 500000
 OBSERVE = 500000
 REPLAY_MEMORY = 500000
